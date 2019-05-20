@@ -19,4 +19,10 @@ Call90 n presta
 Esrom n presta
 
 Ｈｅｎｒｉｑｕｅ, [19.05.19 17:41]
-92% dos devs Br n presta"
+90% dos devs Br n presta
+
+De acordo com estudos feitos por @dattebayoRob, cerca de 92% dos devs br's não prestam.
+Sendo assim, restam apenas:
+Henrique (não confunda com o Toolchain)
+Andersu
+Renan (presta mesmo?)"
