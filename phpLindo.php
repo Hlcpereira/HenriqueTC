@@ -13,8 +13,8 @@ $html .= "<!-- quem programa em java nem é gente -->";
 $html .= "</body>";
 $html .= "</html";
 
-$fix = ">"
+$fix = ">";
 
-$html = $html + $fix;
+$html = $html.$fix;
 
 echo $html;
